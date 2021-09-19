@@ -1,7 +1,7 @@
 # Shopify Link Checker
 This is an application I made just for fun but mainly to take away the stress of spamming F5 during FCFS drops.
 
-<img src="https://imgur.com/a/RFaPeZD"/>
+![Image showing what the application looks like running](forGithub.jpg)
 
 ## This will not automatically purchase an item for you
 This is able to bring you to the checkout page with the item in your cart but that's about it.
